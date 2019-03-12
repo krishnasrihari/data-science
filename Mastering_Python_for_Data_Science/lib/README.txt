@@ -1,0 +1,1 @@
+Add the standford Named Entity Recognition library in this folder
